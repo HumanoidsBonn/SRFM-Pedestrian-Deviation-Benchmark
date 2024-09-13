@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: social_gym
+Version: 0.0.1
+Requires-Dist: gymnasium
+Requires-Dist: stable-baselines3[extra]==2.*
+Requires-Dist: sb3-contrib==2.*
+Requires-Dist: tqdm
+Requires-Dist: tensorboard
+Requires-Dist: numpy
+Requires-Dist: wandb

@@ -1,0 +1,7 @@
+gymnasium
+stable-baselines3[extra]==2.*
+sb3-contrib==2.*
+tqdm
+tensorboard
+numpy
+wandb
